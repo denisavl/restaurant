@@ -8,4 +8,5 @@ A simple restaurant website built with HTML, CSS, and JavaScript.
 - Contact information
 - Basic styling with CSS
 - Responsiveness for various screen sizes
+
 Live: https://denisavl.github.io/restaurant/
